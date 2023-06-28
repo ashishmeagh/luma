@@ -1,4 +1,4 @@
-# luma
+# Luma
 Luma is a freelancer's website. It is a professional and visually appealing platform built using HTML5, CSS3, and Javascript. This website serves as a comprehensive hub for freelance web 
 developers to showcase their skills, connect with clients, and offer their services in a streamlined manner. The website features a clean and modern design, utilizing HTML5 and CSS3 to create 
 visually engaging layouts and responsive designs. It ensures a seamless browsing experience for both freelancers and clients across various devices, including desktops, tablets, and mobile 
